@@ -1,4 +1,4 @@
-
+#examen corto
 #include <iostream>
 #include <fstream>
 usar el espacio de nombres std;
